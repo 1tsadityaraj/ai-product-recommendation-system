@@ -1,0 +1,10 @@
+# Node
+node_modules/
+.env
+
+# Vite
+dist/
+
+# OS
+.DS_Store
+
