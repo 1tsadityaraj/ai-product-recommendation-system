@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Packard 255 G2",
+    "price": 416990,
+    "rating": 4,
+    "category": "laptop",
+    "source": "web-scraped"
+  },
+  {
+    "name": "Aspire E1-510",
+    "price": 306990,
+    "rating": 4,
+    "category": "laptop",
+    "source": "web-scraped"
+  },
+  {
+    "name": "ThinkPad T540p",
+    "price": 1178990,
+    "rating": 4,
+    "category": "laptop",
+    "source": "web-scraped"
+  },
+  {
+    "name": "ProBook",
+    "price": 739990,
+    "rating": 4,
+    "category": "laptop",
+    "source": "web-scraped"
+  },
+  {
+    "name": "ThinkPad X240",
+    "price": 1311990,
+    "rating": 4,
+    "category": "laptop",
+    "source": "web-scraped"
+  },
+  {
+    "name": "Aspire E1-572G",
+    "price": 581990,
+    "rating": 4,
+    "category": "laptop",
+    "source": "web-scraped"
+  }
+]
