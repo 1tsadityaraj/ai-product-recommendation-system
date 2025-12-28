@@ -1,4 +1,6 @@
-const API_BASE_URL = "http://localhost:5001/api";
+const API_BASE_URL =
+  "https://ai-product-recommendation-system-4n.vercel.app/api";
+
 
 // Get auth token from localStorage
 export const getAuthToken = () => {
