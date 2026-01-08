@@ -47,5 +47,5 @@ Backend: https://ai-product-recommendation-system-4n.vercel.app
 
 ## Author
 
-Aditya Raj  
+Aditya Raj
 GitHub: https://github.com/1tsadityaraj
